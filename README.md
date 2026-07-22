@@ -10,6 +10,8 @@ Em itálico *Palavra* utiliza-se *
 
 Em tachado ~~Palavra~~ utiliza-se ~~
 
+TESTE - ESCREVENDO ALGO
+
 # Lista de Compras
 
 - Arroz
